@@ -125,16 +125,17 @@
 
 ### 开发基础
 
-* *Git版本控制*
+* *Git 版本控制*
 
-  > 网站：
-  >
-  > 1. <https://github.com/k88hudson/git-flight-rules/blob/master/README_zh-CN.md>
-  > 2. <https://github.com/geeeeeeeeek/git-recipes>
+  1. 基础命令
 
-  > 课程：
-  >
-  > 1. 玩转Git三剑客 (极客时间)
+     > * <https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud> 学习教程
+     > * <file:///Users/smart/Downloads/SWTM-2088_Atlassian-Git-Cheatsheet.pdf> git 备忘录
+
+
+  2. [git workflow](https://www.atlassian.com/git/tutorials/comparing-workflows) git 不同的工作流
+  3. [husky](https://typicode.github.io/husky/#/) 让 git hooks 更加简单
+  4. [git commit 规范](https://zj-git-guide.readthedocs.io/zh_CN/latest/message/Angular%E6%8F%90%E4%BA%A4%E4%BF%A1%E6%81%AF%E8%A7%84%E8%8C%83/)——Angular
 
 * *Linux 命令*
 
